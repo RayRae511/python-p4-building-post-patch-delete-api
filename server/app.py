@@ -29,6 +29,7 @@ def games():
             "genre": game.genre,
             "platform": game.platform,
             "price": game.price,
+            
         }
         games.append(game_dict)
 
